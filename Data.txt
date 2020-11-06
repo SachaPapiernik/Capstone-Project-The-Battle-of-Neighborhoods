@@ -1,0 +1,1 @@
+the data source will be Foursquare for the restaurent location, we will try to form cluster to see the paris segmentation when it comes to food
